@@ -4,10 +4,6 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=othmangeek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=othmangeek&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=othmangeek&icon=6&color=13)](https://visitcount.itsvg.in)
 
